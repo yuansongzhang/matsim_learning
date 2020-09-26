@@ -1,0 +1,13 @@
+# Ignore Eclipse
+.settings/
+.project
+.factorypath
+.classpath
+
+# Ignore Maven
+target/
+
+# Ignore Output
+output/
+
+
