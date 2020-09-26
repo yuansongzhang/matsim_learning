@@ -7,6 +7,9 @@
 # Ignore Maven
 target/
 
+# Ignore VS Code
+.vscode/
+
 # Ignore Output
 output/
 
